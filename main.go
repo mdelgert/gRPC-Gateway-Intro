@@ -10,7 +10,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 
-	pbHelloWorld "github.com/iamrajiv/helloworld-grpc-gateway/proto/helloworld"
+	pbHelloWorld "github.com/mdelgert/grpc-gateway-intro/proto/helloworld"
 )
 
 // Server struct representing our service implementation

@@ -1,4 +1,4 @@
-module github.com/iamrajiv/helloworld-grpc-gateway
+module github.com/mdelgert/grpc-gateway-intro
 
 go 1.17
 

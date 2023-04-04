@@ -26,3 +26,7 @@ GO111MODULE=on GOBIN=/usr/local/bin go install github.com/bufbuild/buf/cmd/buf@v
 	GO111MODULE=on GOBIN=/usr/local/bin go install google.golang.org/grpc/cmd/protoc-gen-go-grpc
 
 make generate
+
+https://buf.build/docs/configuration/v1beta1-migration-guide/
+
+buf beta migrate-v1beta1
