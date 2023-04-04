@@ -30,3 +30,5 @@ make generate
 https://buf.build/docs/configuration/v1beta1-migration-guide/
 
 buf beta migrate-v1beta1
+
+TEST
